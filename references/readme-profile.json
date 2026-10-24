@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 162｜Storybook Illustration on White Cutout: redraws the most recognisable subject of a photo as a childlike, textured picture-book illustration — naive shapes, flat colour blocks with oil-pastel, crayon or coloured-pencil grain, slightly wobbly hand-drawn lines — set on one irregular hand-cut white paper backing of uneven width (not a uniform white outline), like a sticker or paper puppet. Warm, soft palette of 2–4 colours from the photo, a small stamp-sized subject in very large whitespace and a few short words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-162 or asks for picture-book, crayon-textured sticker or white cut-out illustration from a photo.",
+  "short_description": "白衬剪纸绘本志：把照片主角画成蜡笔质感的童趣绘本小图，垫上一整块手剪白纸",
+  "zh-CN": {
+    "name": "白衬剪纸绘本志",
+    "tagline": "把照片主角画成蜡笔质感的童趣绘本小图，背后垫一块手剪的白纸。",
+    "look": "照片里最好认的主体被画成稚拙的绘本造型：扁平色块，带油画棒、蜡笔或彩铅的颗粒感，线条略抖、有粗细变化。主体外面围着一整块不规则的白色剪纸底衬，宽窄不一、边缘自然起伏，不是一圈等宽白边，看上去像贴纸或纸偶。颜色从照片里取 2–4 种，调成奶油黄、橙红、焦糖棕、柔粉、暖绿这类温暖讨喜的颜色。主体很小，周围是大片留白，配一两句简短的字。",
+    "traits": [
+      "童趣绘本",
+      "蜡笔颗粒肌理",
+      "白色剪纸底衬",
+      "暖色限色",
+      "小章印大留白"
+    ],
+    "good": [
+      "可爱、轮廓清楚的主体：小孩、小狗、一只兔子、一个冰淇淋",
+      "温暖的日常瞬间：抱着玩偶、吃早餐、在公园里跑",
+      "想做成贴纸、儿童绘本页、生日卡或头像的照片"
+    ],
+    "poor": [
+      "严肃写实的题材：证件照、商务人像、精密产品",
+      "人多、背景复杂的场面，会被删到只剩一个小贴纸",
+      "想要光滑矢量、规则白描边贴纸或写实插画的需求"
+    ]
+  },
+  "en": {
+    "name": "Storybook Illustration on White Cutout",
+    "tagline": "Draws the star of your photo as a crayon-textured picture-book figure on a hand-cut white paper backing.",
+    "look": "The most recognisable subject is drawn in naive picture-book shapes: flat colour blocks with the grain of oil pastel, crayon or coloured pencil, and lines that wobble a little and change weight. Around it sits one irregular hand-cut white paper backing, wider in some places and narrower in others with gently uneven edges, not a uniform white outline, so it reads like a sticker or a paper puppet. Two to four colours from the photo become warm, friendly tones such as cream yellow, orange-red, caramel brown, soft pink and warm green. The subject is small in a large white space, with one or two short lines of text.",
+    "traits": [
+      "Picture-book style",
+      "Crayon grain",
+      "White cut-paper backing",
+      "Warm limited palette",
+      "Small stamp, wide space"
+    ],
+    "good": [
+      "Cute subjects with a clear outline: a child, a puppy, a rabbit, an ice-cream cone",
+      "Warm everyday moments: hugging a toy, eating breakfast, running in the park",
+      "Photos you want as stickers, a children's book page, a birthday card or an avatar"
+    ],
+    "poor": [
+      "Serious, realistic subjects: ID photos, corporate portraits, precision products",
+      "Crowded scenes with busy backgrounds, which are cut down to one small sticker",
+      "Requests for slick vector art, an even white sticker outline or realistic illustration"
+    ]
+  },
+  "ja": {
+    "name": "白い切り紙台紙の絵本イラスト",
+    "tagline": "写真の主役をクレヨンの質感がある素朴な絵本の絵にし、手で切った白い紙を下に敷きます。",
+    "look": "写真でいちばん目立つ主役を、素朴な絵本の形で描きます。平らな色面にオイルパステル、クレヨン、色鉛筆の粒子があり、線は少し揺れて太さも変わります。そのまわりを、幅が場所によって違い縁がゆるやかに波打つ一枚の白い切り紙の台紙が囲み、均一な白い縁取りではなく、ステッカーや紙人形のように見えます。色は写真から二〜四色を取り、クリームイエロー、朱色、キャラメルブラウン、やわらかなピンク、温かい緑のような親しみやすい色にします。主役は小さく、まわりは広い余白で、短い言葉が一、二行入ります。",
+    "traits": [
+      "素朴な絵本",
+      "クレヨンの粒子",
+      "白い切り紙の台紙",
+      "暖色の限られた色",
+      "小さな主役と余白"
+    ],
+    "good": [
+      "かわいく輪郭のはっきりした主役：子ども、子犬、うさぎ、アイスクリーム",
+      "温かい日常の瞬間：ぬいぐるみを抱く、朝ごはん、公園で走る",
+      "ステッカー、絵本の一ページ、誕生日カード、アイコンにしたい写真"
+    ],
+    "poor": [
+      "まじめで写実的な題材：証明写真、ビジネスポートレート、精密な製品",
+      "人が多く背景が複雑な場面（小さなステッカーひとつに削られます）",
+      "なめらかなベクター、均一な白縁のステッカー、写実イラストを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "흰 오려낸 종이 받침의 그림책",
+    "tagline": "사진 속 주인공을 크레용 질감의 천진한 그림책 그림으로 그리고, 손으로 오린 흰 종이를 받칩니다.",
+    "look": "사진에서 가장 알아보기 쉬운 주인공을 천진한 그림책 형태로 그립니다. 평평한 색면에 오일 파스텔, 크레용, 색연필의 입자가 있고, 선은 조금 떨리며 굵기가 달라집니다. 그 둘레를 폭이 곳곳마다 다르고 가장자리가 자연스럽게 물결치는 흰 오린 종이 받침 한 장이 감싸는데, 일정한 흰 테두리가 아니라 스티커나 종이 인형처럼 보입니다. 색은 사진에서 두세 가지, 많게는 네 가지를 골라 크림 노랑, 주황빛 빨강, 캐러멜 갈색, 연분홍, 따뜻한 초록 같은 정겨운 색으로 바꿉니다. 주인공은 작고 주변은 넓은 여백이며, 짧은 글이 한두 줄 들어갑니다.",
+    "traits": [
+      "천진한 그림책",
+      "크레용 입자",
+      "흰 오린 종이 받침",
+      "따뜻한 제한 색",
+      "작은 도장과 여백"
+    ],
+    "good": [
+      "귀엽고 윤곽이 분명한 주인공: 아이, 강아지, 토끼, 아이스크림",
+      "따뜻한 일상의 순간: 인형 안기, 아침 먹기, 공원에서 뛰기",
+      "스티커, 그림책 한 장면, 생일 카드, 프로필 사진으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "진지하고 사실적인 소재: 증명사진, 비즈니스 인물 사진, 정밀 제품",
+      "사람이 많고 배경이 복잡한 장면(작은 스티커 하나만 남습니다)",
+      "매끈한 벡터, 일정한 흰 테두리 스티커, 사실적 일러스트를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "رسم قصصي على قصاصة ورق بيضاء",
+    "tagline": "يرسم بطل صورتك كشخصية من كتاب أطفال بملمس أقلام الشمع، فوق قصاصة ورق بيضاء مقصوصة باليد.",
+    "look": "يُرسم أوضح عنصر في الصورة بأشكال بسيطة كأنها من كتاب مصوّر للأطفال: مساحات لونية مسطّحة بحبيبات الباستيل الزيتي أو أقلام الشمع أو الأقلام الملوّنة، وخطوط ترتجف قليلاً وتتغير سماكتها. تحيط به قصاصة ورق بيضاء واحدة غير منتظمة، أعرض في مواضع وأضيق في أخرى وحوافها متموجة برفق، وليست حدّاً أبيض متساوي العرض، فيبدو كملصق أو دمية ورقية. تتحول لونان إلى أربعة ألوان من الصورة إلى درجات دافئة ودودة مثل الأصفر الكريمي والأحمر البرتقالي والبني الكراميل والوردي الناعم والأخضر الدافئ. العنصر صغير وسط فراغ أبيض واسع، مع سطر أو سطرين من نص قصير.",
+    "traits": [
+      "أسلوب كتب الأطفال",
+      "حبيبات أقلام الشمع",
+      "قاعدة ورق أبيض مقصوص",
+      "ألوان دافئة محدودة",
+      "ختم صغير وفراغ واسع"
+    ],
+    "good": [
+      "عناصر لطيفة واضحة الحدود: طفل، جرو، أرنب، مخروط مثلجات",
+      "لحظات يومية دافئة: احتضان دمية، تناول الفطور، الركض في الحديقة",
+      "صور تريدها ملصقات أو صفحة في كتاب أطفال أو بطاقة عيد ميلاد أو صورة شخصية"
+    ],
+    "poor": [
+      "موضوعات جادة وواقعية: صور الهوية، صور رسمية للأعمال، منتجات دقيقة",
+      "مشاهد مزدحمة بخلفيات معقدة، تُختزل إلى ملصق صغير واحد",
+      "طلب رسوم متجهية ملساء أو ملصق بحدّ أبيض متساوٍ أو رسم واقعي"
+    ]
+  }
+}
